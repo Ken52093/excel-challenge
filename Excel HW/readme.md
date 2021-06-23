@@ -10,9 +10,11 @@ i.	Within the film & video category, science fiction performs poorly. Meanwhile,
 b.	According to the “Subcategory Stats”, if I want to be successful on Kickstarter, I should launch a campaign related to plays, rock, and documentary.
 i.	I would not recommend launching any campaigns related to food, because there are no successful projects in the food trucks or restaurant categories.
 
-c.	If I want to be successful on Kickstarter, I would launch my campaigns in May and avoid December, because of the trend spotted in “Outcomes based on Launch Day”.
+c.	If I want to be successful on Kickstarter, I would launch my campaigns in May and avoid December, because of the trend spotted in “Outcomes based on Launch   
+    Day”.
 
-2.	The limitation of this dataset is the sample size of the data. I cannot make any definitive conclusion about Kickstarter projects launched based on the sample size of 4,000 projects. 
+2.	The limitation of this dataset is the sample size of the data. I cannot make any definitive conclusion about Kickstarter projects launched based on the sample   
+    size of 4,000 projects. 
     There are over 300,000 projects launched on Kickstarter, yet there are only 4,000 dataset analyzed here. 
     That is only 1.33% of all projects launched and therefore it is very difficult to say with any certainty that anything found in the data will lead to success.
 
